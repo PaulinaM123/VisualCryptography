@@ -1,0 +1,45 @@
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna.csprojResolveAssemblyReference.cache
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\App.g.cs
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna_MarkupCompile.cache
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna_MarkupCompile.lref
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\bin\Debug\Kryptografia_wizualna.exe.config
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\bin\Debug\Kryptografia_wizualna.exe
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\bin\Debug\Kryptografia_wizualna.pdb
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\MainWindow.baml
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna.g.resources
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna.Properties.Resources.resources
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna.csproj.GenerateResource.Cache
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna.csproj.CoreCompileInputs.cache
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna.exe
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna.pdb
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\App.baml
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\ProstyPrzykład.g.cs
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\ProstyPrzykład.baml
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\KorekcjaZniekształceń.g.cs
+C:\Users\PM\Source\Repos\Kryptografia_wizualna\obj\Debug\KorekcjaZniekształceń.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\bin\Debug\Kryptografia_wizualna.exe.config
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\bin\Debug\Kryptografia_wizualna.exe
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\bin\Debug\Kryptografia_wizualna.pdb
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna.csprojAssemblyReference.cache
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\KorekcjaZniekształceń.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\ProstyPrzykład.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\App.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna_MarkupCompile.cache
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna_MarkupCompile.lref
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\App.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\KorekcjaZniekształceń.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\MainWindow.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\ProstyPrzykład.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna.g.resources
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna.Properties.Resources.resources
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna.csproj.GenerateResource.cache
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna.exe
+C:\Users\PM\Desktop\STUDIA-dysk\semestr 5\Podstawy Ochrony Danych\Laboratorium_11\Kryptografia_wizualna\obj\Debug\Kryptografia_wizualna.pdb

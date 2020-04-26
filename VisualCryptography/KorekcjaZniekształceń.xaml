@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="Kryptografia_wizualna.KorekcjaZniekształceń"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Kryptografia_wizualna"
+        mc:Ignorable="d"
+           Height="562" Width="720">
+    <Grid>
+        <Button x:Name="Wczytaj" Content="Wczytaj" Margin="74,241,0,0" Click="Wczytaj_Click"/>
+        <Button Content="Szyfruj"  Margin="162,241,0,0"  Click="Button_Click"/>
+        <Button Content="Złóż" Margin="390,241,0,0"  Click="Złóż_Click"/>
+        <Image x:Name="Obraz" HorizontalAlignment="Left" Height="200" Margin="74,35,0,0" VerticalAlignment="Top" Width="270" />
+        <Image x:Name="Obraz1" HorizontalAlignment="Left" Height="200" Margin="390,35,0,0" VerticalAlignment="Top" Width="270"  />
+        <Image x:Name="U1" HorizontalAlignment="Left" Height="200" Margin="74,310,0,0" VerticalAlignment="Top" Width="270"/>
+        <Image x:Name="U2" HorizontalAlignment="Left" Height="200" Margin="390,310,0,0" VerticalAlignment="Top" Width="270"/>
+        <Label Content="Oryginalny obraz" HorizontalAlignment="Left" Margin="76,7,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rozszyfrowany obraz" HorizontalAlignment="Left" Margin="392,7,0,0" VerticalAlignment="Top"/>
+        <Label Content="Udział 1" HorizontalAlignment="Left" Margin="76,283,0,0" VerticalAlignment="Top"/>
+        <Label Content="Udział 2" HorizontalAlignment="Left" Margin="392,283,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="U1_zapisz" Content="Zapisz"  Margin="74,517,0,0" Click="U1_zapisz_Click"/>
+        <Button x:Name="U2_zapisz" Content="Zapisz"  Margin="390,517,0,0" Click="U2_zapisz_Click"/>
+        <Button x:Name="U1_wczytaj" Content="Wczytaj"  Margin="162,517,0,0" Click="U1_wczytaj_Click"/>
+        <Button x:Name="U2_wczytaj" Content="Wczytaj"  Margin="477,517,0,0" Click="U2_wczytaj_Click"/>
+    </Grid>
+</UserControl>

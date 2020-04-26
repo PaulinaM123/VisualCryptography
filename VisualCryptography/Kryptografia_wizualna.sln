@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kryptografia_wizualna", "Kryptografia_wizualna.csproj", "{35C94939-5B65-43F0-839E-9E72A477FCAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C94939-5B65-43F0-839E-9E72A477FCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C94939-5B65-43F0-839E-9E72A477FCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C94939-5B65-43F0-839E-9E72A477FCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C94939-5B65-43F0-839E-9E72A477FCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E0B9400-2E41-48AF-A7CC-6959B55708E2}
+	EndGlobalSection
+EndGlobal
